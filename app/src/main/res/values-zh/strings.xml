@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Switching Example</string>
+    <string name="message_text">该应用程序以普通话显示</string>
+    <string name="english">英语</string>
+    <string name="mandarin">普通话</string>
+</resources>

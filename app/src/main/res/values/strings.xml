@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Language Switching Example</string>
+    <string name="message_text">The application is displaying in English</string>
+    <string name="english">English</string>
+    <string name="mandarin">Mandarin</string>
+</resources>
